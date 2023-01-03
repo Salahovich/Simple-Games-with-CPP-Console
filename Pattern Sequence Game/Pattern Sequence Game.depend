@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610097827 source:e:\programming\c++\projects\pattern sequence game\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	<vector>
+

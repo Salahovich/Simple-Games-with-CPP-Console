@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610204301 source:c:\users\turbo\desktop\snake\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	<vector>
+	<conio.h>
+

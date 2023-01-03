@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1609959441 source:c:\users\turbo\desktop\flipped cards project\main.cpp
+	<iostream>
+	<Card.h>
+	<windows.h>
+	<stdlib.h>
+
+1609958611 source:c:\users\turbo\desktop\flipped cards project\src\card.cpp
+	"Card.h"
+	<time.h>
+	<stdlib.h>
+
+1609957422 c:\users\turbo\desktop\flipped cards project\include\card.h
+	<vector>
+
+1609958611 source:e:\programming\c++\projects\flipped cards project\src\card.cpp
+	"Card.h"
+	<time.h>
+	<stdlib.h>
+
+1609957422 e:\programming\c++\projects\flipped cards project\include\card.h
+	<vector>
+
